@@ -331,4 +331,4 @@ Run all backend unit/API tests and frontend TypeScript verification:
 
 ## 15. License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE) — Copyright (c) 2026 **Ragu Ram P**.
